@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronald Clark on Academic</title>
+    <link>/authors/ronald-clark/</link>
+    <description>Recent content in Ronald Clark on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/ronald-clark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo</title>
+      <link>/publication/ls-net/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ls-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM</title>
+      <link>/publication/code-slam/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/code-slam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

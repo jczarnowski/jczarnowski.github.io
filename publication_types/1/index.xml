@@ -6,18 +6,36 @@
     <description>Recent content in 1 on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      <title>LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo</title>
+      <link>/publication/ls-net/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/ls-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM</title>
+      <link>/publication/code-slam/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/code-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Texture for Robust Dense Tracking</title>
+      <link>/publication/sem-tex/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/sem-tex/</guid>
+      <description></description>
     </item>
     
   </channel>
