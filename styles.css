@@ -927,10 +927,15 @@ article .article-metadata {
   color: #2962ff;
 }
 
+.article-authors {
+  display: inline-block;
+}
+
 .middot-divider {
   padding-right: .45em;
   padding-left: .45em;
   font-size: 15px;
+  display: inline-block;
 }
 
 .middot-divider::after {

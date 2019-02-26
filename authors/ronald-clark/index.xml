@@ -6,19 +6,10 @@
     <description>Recent content in Ronald Clark on Jan Czarnowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/authors/ronald-clark/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo</title>
-      <link>/publication/ls-net/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/ls-net/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM</title>
@@ -26,6 +17,15 @@
       <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
       
       <guid>/publication/code-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo</title>
+      <link>/publication/ls-net/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ls-net/</guid>
       <description></description>
     </item>
     
