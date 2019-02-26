@@ -876,7 +876,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.75rem;
+  font-size: 1.35rem;
 }
 
 .article-title a {
@@ -1098,6 +1098,7 @@ article .article-metadata {
 
 .pub-list-item .pub-abstract {
   font-size: 1rem;
+  margin-bottom: 0.3cm;
 }
 
 .pub-list-item .btn-links {
