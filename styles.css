@@ -877,6 +877,7 @@ article {
 
 .article-title {
   font-size: 1.35rem;
+  margin-top: 0rem;
 }
 
 .article-title a {
@@ -893,7 +894,7 @@ article {
 }
 
 .article-metadata {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
