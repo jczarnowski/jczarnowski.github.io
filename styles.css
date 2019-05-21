@@ -876,8 +876,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.35rem;
-  margin-top: 0rem;
+  font-size: 1.75rem;
 }
 
 .article-title a {
@@ -894,7 +893,7 @@ article {
 }
 
 .article-metadata {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
@@ -927,15 +926,10 @@ article .article-metadata {
   color: #2962ff;
 }
 
-.article-authors {
-  display: inline-block;
-}
-
 .middot-divider {
   padding-right: .45em;
   padding-left: .45em;
   font-size: 15px;
-  display: inline-block;
 }
 
 .middot-divider::after {
@@ -1104,7 +1098,6 @@ article .article-metadata {
 
 .pub-list-item .pub-abstract {
   font-size: 1rem;
-  margin-bottom: 0.3cm;
 }
 
 .pub-list-item .btn-links {

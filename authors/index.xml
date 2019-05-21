@@ -6,24 +6,15 @@
     <description>Recent content in Authors on Jan Czarnowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andrew J. Davison</title>
       <link>/authors/andrew-j.-davison/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>/authors/andrew-j.-davison/</guid>
       <description></description>
@@ -32,7 +23,7 @@
     <item>
       <title>Jan Czarnowski</title>
       <link>/authors/jan-czarnowski/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>/authors/jan-czarnowski/</guid>
       <description></description>
@@ -41,7 +32,7 @@
     <item>
       <title>Michael Bloesch</title>
       <link>/authors/michael-bloesch/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>/authors/michael-bloesch/</guid>
       <description></description>
@@ -50,7 +41,7 @@
     <item>
       <title>Ronald Clark</title>
       <link>/authors/ronald-clark/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>/authors/ronald-clark/</guid>
       <description></description>
@@ -59,9 +50,18 @@
     <item>
       <title>Stefan Leutenegger</title>
       <link>/authors/stefan-leutenegger/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>/authors/stefan-leutenegger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     

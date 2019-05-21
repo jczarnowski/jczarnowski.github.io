@@ -6,7 +6,7 @@
     <description>Recent content in Admin on Jan Czarnowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Test post</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>test content</description>
+      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
     </item>
     
   </channel>
